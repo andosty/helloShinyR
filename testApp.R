@@ -1,6 +1,6 @@
 library(shiny)
 ui <- fluidPage(
-  "Hello, world!"
+  "Hello, world!. This is Shiny R test"
 )
 server <- function(input, output) {
 }
